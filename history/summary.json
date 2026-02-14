@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/natureclient.com.ico",
     "slug": "nature",
     "status": "down",
-    "uptime": "1.60%",
-    "uptimeDay": "1.60%",
-    "uptimeWeek": "1.60%",
-    "uptimeMonth": "1.60%",
-    "uptimeYear": "1.60%",
-    "time": 214,
-    "timeDay": 214,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-02-14": 0
+      "2026-02-14": 9
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-02-14": 0
+      "2026-02-14": 9
     }
   }
 ]
