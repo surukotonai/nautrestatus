@@ -6,7 +6,7 @@ sites:
     url: https://natureclient.com/
     
   - name: NatureApi
-    url: https://natureclient.com:2053/
+    url: https://natureclient.com:2053/status
 
 status-website:
   baseUrl: /nautrestatus
