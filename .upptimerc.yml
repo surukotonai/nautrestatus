@@ -7,3 +7,12 @@ sites:
     
   - name: NatureApi
     url: https://natureclient.com:2053/
+
+status-website:
+  baseUrl: /nautrestatus
+  name: Nature Client Status
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
