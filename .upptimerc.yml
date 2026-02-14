@@ -6,11 +6,12 @@ sites:
     url: https://natureclient.com/
     headers:
       - "User-Agent: fat/1.0"
-    
+      - "fat: lawl"
   - name: NatureApi
     url: https://natureclient.com:2053/status
     headers:
       - "User-Agent: fat/1.0"
+      - "fat: lawl"
 
 status-website:
   baseUrl: /nautrestatus
