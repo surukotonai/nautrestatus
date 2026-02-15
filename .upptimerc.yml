@@ -21,5 +21,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
 workflowSchedule:
-  uptime: "*/3 * * * *"
+  uptime: "*/5 * * * *"
